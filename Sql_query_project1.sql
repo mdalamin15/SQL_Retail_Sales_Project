@@ -93,7 +93,7 @@ FROM retail_sale;
 SELECT COUNT(DISTINCT customer_id) as total_customer
 FROM retail_sale;
 
--- question 2 Finde the unique category.
+-- question 2 Find the unique category.
 
 SELECT DISTINCT category
 FROM retail_sale;
