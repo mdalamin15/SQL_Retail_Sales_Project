@@ -184,7 +184,7 @@ GROUP BY 1
 ORDER BY 2 DESC
 LIMIT 5;
 
--- 11 0 write a SQL query to find the number of customers who purchased items from each category.
+-- 11 write a SQL query to find the number of customers who purchased items from each category.
 
 SELECT 
 	category, 
@@ -194,7 +194,7 @@ GROUP BY category;
 
 
 
--- 12 10 write a SQL query to create each shift number of orders(example morning<=12, afternoon between 12 & 17, evening >17)
+-- 12 write a SQL query to create each shift number of orders(example morning<=12, afternoon between 12 & 17, evening >17)
 
 WITH hourly_sale 
 AS
