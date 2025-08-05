@@ -1,4 +1,4 @@
-# SQL_Retail_Sales_Project
+# SQL Project: Retail Sales Analysis System
 
 # 🧠 Retail Sales Data Analysis with SQL
 
